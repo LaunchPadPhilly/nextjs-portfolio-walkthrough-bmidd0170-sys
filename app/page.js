@@ -3,11 +3,11 @@ export default function Home() {
     <div className="min-h-screen flex items-center justify-center p-8">
       <div className="max-w-4xl text-center">
         <h1 className="text-6xl font-bold mb-6 text-gray-900">
-          Welcome to My Portfolio
+          Hi, I'm Brayden!
         </h1>
         
         <p className="text-xl text-gray-600 mb-8">
-          This is your homepage starter template. Customize this page to introduce yourself!
+          I am a software engineer. I feel confident in my abilities to create solutions that are both efficient and effective. I am passionate about learning new technologies and continuously improving my skills.
         </p>
 
         <div className="bg-blue-50 border-2 border-blue-200 rounded-lg p-6 text-left">
